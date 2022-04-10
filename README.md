@@ -2,7 +2,7 @@
 
 This repository consists of ROS Nodes to Publish and Subscribe the Camera Images as a sequence (Video)
 
-The code is entirely done in Python.
+The code is entirely done in Python. The following are some required packages before running the script.
 
 #Required Modules
 
